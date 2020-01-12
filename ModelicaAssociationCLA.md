@@ -2,7 +2,10 @@ The Modelica Association
 
 Contributor License Agreement ("CLA")
 
-http://www.modelica.org/licenses/
+<https://www.modelica.org/licenses/>
+
+Version: 1.1.1\
+Change date: January 12, 2020
 
 To clarify the intellectual property license granted with respect to
 Contributions, as further defined, from any person or entity, all
@@ -34,21 +37,18 @@ Please complete and sign, then scan and email a pdf file of this
 Agreement to board@modelica.org and send the original signed Agreement
 to:
 
-> Modelica Association
->
-> c/o PELAB, IDA, Linköpings Universitet
->
-> S-58183 Linköping
->
+> Modelica Association\
+> c/o PELAB, IDA, Linköpings Universitet\
+> S-58183 Linköping\
 > Sweden
 
-\
-Contributor License Agreement ("CLA")
-=====================================
+<div style="page-break-after: always;"></div>
+
+## Contributor License Agreement ("CLA")
 
 Corporation or Individual name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Corporation or Individual address: --------------------------------
+Corporation or Individual address: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Point of Contact (Name):
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -184,15 +184,18 @@ Signature:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
+Name:
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
 Title:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Corporation or Individual:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Schedule A**
+<div style="page-break-after: always;"></div>
 
-**List of Past Contributions**
+## Schedule A: List of Past Contributions
 
 Your Past Contributions are Your contributions in the released
 Specifications, Libraries and Source Code, Documentation as well as all
@@ -215,48 +218,28 @@ repositories are given.
 The last released Modelica specifications and all included Works at the
 execution date of this Agreement are:
 
-> [**Modelica Specification, version 3.4** (PDF
-> format)](https://modelica.org/documents/ModelicaSpec34.pdf)\
-> [**Modelica Specification, version 3.3 Revision 1** (PDF
-> format)](https://www.modelica.org/documents/ModelicaSpec33Revision1.pdf)\
-> [**Modelica Specification, version 3.3** (PDF format, 1473
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec33.pdf)\
-> [**Modelica Specification, version 3.2 Revision 2** (PDF format, 1891
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec32Revision2.pdf)\
-> [**Modelica Specification, version 3.2 Revision 1** (PDF format, 1319
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec32Revision1.pdf) \
-> [**Modelica Specification, version 3.2** (PDF format, 1599
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec32.pdf)\
-> [**Modelica Specification, version 3.1** (PDF format, 1586
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec31.pdf)\
-> [**Modelica Specification, version 3.0** (PDF format, 1621
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec30.pdf) \
-> [**Modelica Specification, version 2.2** (PDF format, 704
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec22.pdf)\
-> [**Modelica Specification, version 2.1** (PDF format, 600
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec21.pdf)\
-> [**Modelica Specification, version 2.0** (PDF format, 1100
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec20.pdf)\
-> [**Modelica Specification, version 1.4** (PDF format, 340
-> Kbyte)](https://www.modelica.org/documents/ModelicaSpec14.pdf)\
-> [**Modelica Tutorial, version 1.4** (PDF format, 180
-> Kbyte)](https://www.modelica.org/documents/ModelicaTutorial14.pdf)\
-> [**Modelica Specification, version 1.3** (PDF
-> format)](https://www.modelica.org/documents/ModelicaSpec13norev.pdf)\
-> [**Modelica Tutorial and Design Rationale, version 1.3** (PDF
-> format)](https://www.modelica.org/documents/ModelicaRationale13rev.pdf)\
-> [**Modelica Specification, version 1.2** (PDF
-> format)](https://www.modelica.org/documents/modelicaspec12norev.pdf)\
-> [**Modelica Tutorial and Design Rationale**, version 1.2 (PDF
-> Format)](https://www.modelica.org/documents/modelicarational12rev.pdf)\
-> [**Modelica Specification, version 1.1** (PDF
-> format](https://www.modelica.org/documents/ModelicaSpec11.pdf))\
-> [**Modelica Tutorial and Design Rationale, version 1.1** (PDF
-> format)](https://www.modelica.org/documents/ModelicaRational11norev.pdf)\
-> [**Modelica Specification, version 1.0** (PDF
-> Format)](https://www.modelica.org/documents/Modelica1.pdf)
+> [**Modelica Specification, version 3.4** (PDF format)](https://modelica.org/documents/ModelicaSpec34.pdf)\
+> [**Modelica Specification, version 3.3 Revision 1** (PDF format)](https://www.modelica.org/documents/ModelicaSpec33Revision1.pdf)\
+> [**Modelica Specification, version 3.3** (PDF format)](https://www.modelica.org/documents/ModelicaSpec33.pdf)\
+> [**Modelica Specification, version 3.2 Revision 2** (PDF format)](https://www.modelica.org/documents/ModelicaSpec32Revision2.pdf)\
+> [**Modelica Specification, version 3.2 Revision 1** (PDF format)](https://www.modelica.org/documents/ModelicaSpec32Revision1.pdf) \
+> [**Modelica Specification, version 3.2** (PDF format)](https://www.modelica.org/documents/ModelicaSpec32.pdf)\
+> [**Modelica Specification, version 3.1** (PDF format)](https://www.modelica.org/documents/ModelicaSpec31.pdf)\
+> [**Modelica Specification, version 3.0** (PDF format)](https://www.modelica.org/documents/ModelicaSpec30.pdf) \
+> [**Modelica Specification, version 2.2** (PDF format)](https://www.modelica.org/documents/ModelicaSpec22.pdf)\
+> [**Modelica Specification, version 2.1** (PDF format)](https://www.modelica.org/documents/ModelicaSpec21.pdf)\
+> [**Modelica Specification, version 2.0** (PDF format)](https://www.modelica.org/documents/ModelicaSpec20.pdf)\
+> [**Modelica Specification, version 1.4** (PDF format)](https://www.modelica.org/documents/ModelicaSpec14.pdf)\
+> [**Modelica Tutorial, version 1.4** (PDF format)](https://www.modelica.org/documents/ModelicaTutorial14.pdf)\
+> [**Modelica Specification, version 1.3** (PDF format)](https://www.modelica.org/documents/ModelicaSpec13norev.pdf)\
+> [**Modelica Tutorial and Design Rationale, version 1.3** (PDF format)](https://www.modelica.org/documents/ModelicaRationale13rev.pdf)\
+> [**Modelica Specification, version 1.2** (PDF format)](https://www.modelica.org/documents/modelicaspec12norev.pdf)\
+> [**Modelica Tutorial and Design Rationale, version 1.2** (PDF Format)](https://www.modelica.org/documents/modelicarational12rev.pdf)\
+> [**Modelica Specification, version 1.1** (PDF format](https://www.modelica.org/documents/ModelicaSpec11.pdf))\
+> [**Modelica Tutorial and Design Rationale, version 1.1** (PDF format)](https://www.modelica.org/documents/ModelicaRational11norev.pdf)\
+> [**Modelica Specification, version 1.0** (PDF Format)](https://www.modelica.org/documents/Modelica1.pdf)
 
--   Any documents uploaded to <https://svn.modelica.org/>
+- Any documents uploaded to <https://svn.modelica.org/>
 
 ### Libraries developed by MAP Modelica Libraries, from the first version submitted to an svn or github repository to Master branch on github
 
@@ -266,65 +249,78 @@ contributed by You to any svn or git Source Code repository under
 control of the Modelica Association, in particular the following
 repositories:
 
--   The Modelica Standard Library (<https://svn.modelica.org> and
-    <https://github.com/modelica/>)
+- The Modelica Standard Library (
+  <https://svn.modelica.org/projects/Modelica>,
+  <https://github.com/modelica/Modelica> and
+  <https://github.com/modelica/ModelicaStandardLibrary>)
 
--   ElectricalEnergyStorage
-    (<https://github.com/modelica/ElectricalEnergyStorage>)
+- ElectricalEnergyStorage
+  (<https://github.com/modelica/ElectricalEnergyStorage>)
 
--   ExternalMedia (<https://github.com/modelica/ExternalMedia>)
+- ExternalMedia (<https://github.com/modelica/ExternalMedia>)
 
--   Modelica-Compliance
-    (<https://github.com/modelica/Modelica-Compliance>)
+- Modelica-Compliance
+  (<https://github.com/modelica/Modelica-Compliance>)
 
--   Modelica\_DeviceDrivers
-    (<https://github.com/modelica/Modelica_DeviceDrivers>)
+- Modelica\_DeviceDrivers
+  (<https://github.com/modelica/Modelica_DeviceDrivers>)
 
--   Modelica\_LinearSystems2
-    (<https://github.com/modelica/Modelica_LinearSystems2>)
+- Modelica\_LinearSystems2
+  (<https://github.com/modelica/Modelica_LinearSystems2>)
 
--   Modelica\_StateGraph2
-    (<https://github.com/modelica/Modelica_StateGraph2>)
+- Modelica\_StateGraph2
+  (<https://github.com/modelica/Modelica_StateGraph2>)
 
--   Modelica\_Synchronous
-    (<https://github.com/modelica/Modelica_Synchronous>)
+- Modelica\_Synchronous
+  (<https://github.com/modelica/Modelica_Synchronous>)
 
--   PowerSystems (<https://github.com/modelica/PowerSystems>)
+- PowerSystems (<https://github.com/modelica/PowerSystems>)
 
--   VehicleInterfaces (<https://github.com/modelica/VehicleInterfaces>)
+- VehicleInterfaces (<https://github.com/modelica/VehicleInterfaces>)
 
-### The System Structure and Parameterization Project
-
-Any documents uploaded to <https://svn.modelica.org/projects/ssp> at any
-point in time
-
-### The Functional Mockup Interface – FMI 
+### The Functional Mockup Interface – FMI
 
 Any documents uploaded to the following repositories:
 
--   <http://github.com/fmi-standard>,
+- <https://github.com/fmi-standard>,
 
--   <https://github.com/fmi-design>,
+- <https://github.com/fmi-design>,
 
--   <https://svn.fmi-standard.org/fmi>,
+- <https://github.com/modelica/fmi-standard.org>,
+
+- <https://svn.fmi-standard.org/fmi>,
 
 and in particular the specifications and source code for FMI 1.0 and FMI
-2.0 available from <http://fmi-standard.org/downloads/>.
+2.0 available from <https://fmi-standard.org/downloads/>.
+
+### The System Structure and Parameterization Project - SSP
+
+Any documents uploaded to the following repositories:
+
+- <https://github.com/modelica/ssp-standard-dev>,
+
+- <https://github.com/modelica/ssp-standard-org>,
+
+- <https://github.com/modelica/ssp-standard.org>,
+
+- <https://svn.modelica.org/projects/ssp>
+
+at any point in time.
 
 ### The Distributed Co-Simulation Protocol – DCP
 
 Any documents uploaded to
 
--   <https://github.com/modelica/dcp-standard>,
+- <https://github.com/modelica/dcp-standard>,
 
--   <https://github.com/modelica/dcp-design>,
+- <https://github.com/modelica/dcp-design>,
+
+- <https://github.com/modelica/dcp-standard.org>,
 
 and in particular the specifications, reference implementations,
 compatibility check and test tools for the DCP available from
-<http://www.dcp-standard.org>.
+<https://www.dcp-standard.org>.
 
-**Schedule B**
+<div style="page-break-after: always;"></div>
 
-**Initial list of designated employees**
-
-### 
+## Schedule B: Initial list of designated employees
