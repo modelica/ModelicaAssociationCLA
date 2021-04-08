@@ -15,7 +15,7 @@ import os.path
 import sys
 
 def main(dir, version):
-    template = 'ModelicaAsscociationCLA-Template.html'
+    template = 'ModelicaAssociationCLA-Template.html'
     file_name = 'ModelicaAssociationCLA.md'
     file_name_pdf = 'ModelicaAssociationCLA_{0}.pdf'.format(version)
 
