@@ -35,13 +35,7 @@ individual contributors.
 
 Please complete and sign, then scan and email a pdf file of this
 Agreement to backoffice@modelica.org and send the original signed
-Agreement to:
-
-> MA Backoffice\
-> c/o LTX Simulation GmbH\
-> Wohlfartstr. 21b\
-> 80939 München\
-> Germany
+Agreement to the Modelica Association Backoffice, see https://modelica.org/association.html for the address.
 
 <div style="page-break-after: always;"></div>
 
