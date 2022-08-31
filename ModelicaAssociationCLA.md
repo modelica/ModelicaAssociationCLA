@@ -34,13 +34,8 @@ contributions as employees of that Corporation only and not as
 individual contributors.
 
 Please complete and sign, then scan and email a pdf file of this
-Agreement to board@modelica.org and send the original signed Agreement
-to:
-
-> Modelica Association\
-> c/o PELAB, IDA, Linköpings Universitet\
-> S-58183 Linköping\
-> Sweden
+Agreement to backoffice@modelica.org and send the original signed
+Agreement to the Modelica Association Backoffice, see https://modelica.org/association.html for the address.
 
 <div style="page-break-after: always;"></div>
 
