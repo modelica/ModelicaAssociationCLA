@@ -2,10 +2,10 @@ The Modelica Association
 
 Contributor License Agreement ("CLA")
 
-<https://www.modelica.org/licenses/>
+<https://github.com/modelica/ModelicaAssociationCLA>
 
-Version: 1.1.1\
-Change date: January 12, 2020
+Version: 1.2.0\
+Change date: August 9, 2023
 
 To clarify the intellectual property license granted with respect to
 Contributions, as further defined, from any person or entity, all
@@ -20,8 +20,8 @@ Source Code”), documentation and supporting documents (the
 “Documentation”), and for the protection of its users; it does not
 change your rights to use your own Contributions for any other purpose.
 
-This CLA allows an entity (the "Corporation") or an individual
-contributor to any Modelica Association project to submit Contributions
+This CLA allows an entity (the “Corporation”) or an individual
+contributor to any Modelica Association Project to submit Contributions
 to any project organized under the stewardship of the Modelica
 Association, and to authorize Contributions submitted by designated
 employees of the Corporation or individuals to the Project, and to grant
@@ -37,10 +37,11 @@ Please complete and sign, then scan and email a pdf file of this
 Agreement to board@modelica.org and send the original signed Agreement
 to:
 
-> Modelica Association\
-> c/o PELAB, IDA, Linköpings Universitet\
-> S-58183 Linköping\
-> Sweden
+> MA Backoffice
+> c/o LTX Simulation GmbH
+> Wohlfartstr. 21b
+> 80939 München
+> Germany
 
 <div style="page-break-after: always;"></div>
 
@@ -213,11 +214,13 @@ repositories.
 Subsequently, the Modelica Association Projects and their main
 repositories are given.
 
-### Modelica Versions 1.0 (Sept. 1997) - 3.4 (April 2017)
+### Modelica Association Project Language (MAP Lang)
 
-The last released Modelica specifications and all included Works at the
+The last released Modelica Language specifications and all included Works at the
 execution date of this Agreement are:
 
+> [**Modelica Specification, version 3.6** (PDF format)](https://specification.modelica.org/maint/3.6/MLS.pdf)\
+> [**Modelica Specification, version 3.5** (PDF format)](https://specification.modelica.org/maint/3.5/MLS.pdf)\
 > [**Modelica Specification, version 3.4** (PDF format)](https://modelica.org/documents/ModelicaSpec34.pdf)\
 > [**Modelica Specification, version 3.3 Revision 1** (PDF format)](https://www.modelica.org/documents/ModelicaSpec33Revision1.pdf)\
 > [**Modelica Specification, version 3.3** (PDF format)](https://www.modelica.org/documents/ModelicaSpec33.pdf)\
@@ -241,13 +244,12 @@ execution date of this Agreement are:
 
 - Any documents uploaded to <https://svn.modelica.org/>
 
-### Libraries developed by MAP Modelica Libraries, from the first version submitted to an svn or github repository to Master branch on github
+### Modelica Association Project Libraries (MAP LIB)
 
 The Modelica Standard Library and related Modelica Libraries
 administered by the Modelica Association contain all Source Code ever
-contributed by You to any svn or git Source Code repository under
-control of the Modelica Association, in particular the following
-repositories:
+contributed by You to any Source Code repository under control of the
+Modelica Association, in particular the following repositories:
 
 - The Modelica Standard Library (
   <https://svn.modelica.org/projects/Modelica>,
@@ -278,9 +280,9 @@ repositories:
 
 - VehicleInterfaces (<https://github.com/modelica/VehicleInterfaces>)
 
-### The Functional Mockup Interface – FMI
+### Modelica Association Project Functional Mockup Interface (MAP FMI)
 
-Any documents uploaded to the following repositories:
+Any documents uploaded to the following repositories
 
 - <https://github.com/fmi-standard>,
 
@@ -290,12 +292,13 @@ Any documents uploaded to the following repositories:
 
 - <https://svn.fmi-standard.org/fmi>,
 
-and in particular the specifications and source code for FMI 1.0 and FMI
-2.0 available from <https://fmi-standard.org/downloads/>.
+and in particular the specifications and source code for FMI 1.0, FMI 1.0.1,
+FMI 2.0, FMI 2.0.1, FMI 2.0.2, FMI 2.0.3. FMI 2.0.4 and FMI 3.0 available
+from <https://fmi-standard.org/>.
 
-### The System Structure and Parameterization Project - SSP
+### Modelica Association Project System Structure and Parameterization (MAP SSP)
 
-Any documents uploaded to the following repositories:
+Any documents uploaded to the following repositories
 
 - <https://github.com/modelica/ssp-standard-dev>,
 
@@ -307,7 +310,7 @@ Any documents uploaded to the following repositories:
 
 at any point in time.
 
-### The Distributed Co-Simulation Protocol – DCP
+### Modelica Association Project Distributed Co-Simulation Protocol (MAP DCP)
 
 Any documents uploaded to
 
@@ -322,5 +325,25 @@ compatibility check and test tools for the DCP available from
 <https://www.dcp-standard.org>.
 
 <div style="page-break-after: always;"></div>
+
+### Modelica Association Project Functional Mockup Interface for embedded systems (MAP eFMI)
+
+Anything uploaded to the following repositories
+
+- <https://github.com/modelica/efmi-organization>
+
+- <https://github.com/modelica/efmi-standard.org>
+
+- <https://github.com/modelica/efmi-specification>
+
+- <https://github.com/EMPHYSIS/efmi-specification>
+
+- <https://github.com/modelica/efmi-testcases>
+
+- <https://github.com/modelica/efmi-containermanager>
+
+- <https://github.com/modelica/efmi-compliancechecker>
+
+at any point of time.
 
 ## Schedule B: Initial list of designated employees
